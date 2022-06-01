@@ -1,0 +1,465 @@
+I
+100
+STUDENT
+Emma Olivia
+45 Vale Drive Brainerd, MN 56401
+York River
+Biology
+Faculty
+Ava Isabella
+280 Blackburn Ave. Ridgewood, NJ 07450
+Luter 101
+African-American Studies
+Student
+Sophia Charlotte
+750 Schoolhouse Ave. Bloomfield, NJ 07003
+Santoro
+Communication Studies
+student
+Mia Amelia
+694 Lexington Drive New York, NY 10002
+Warwick River
+Economics
+Staff
+Harper Evelyn
+9597 Essex Ave. Floral Park, NY 11001
+Librarian
+staff
+Abigail Emily
+28 Jones St. North Olmsted, OH 44070
+Office Manager
+staff
+Elizabeth Mila
+8460 Saxton Lane Des Moines, IA 50310
+Manager
+STAFF
+Ella Avery
+447 Myers Road Crystal Lake, IL 60014
+Supervisor
+STUDENT
+Sofia Camila
+34 High Street Trenton, NJ 08610
+Rappahannock
+English
+faculty
+Aria Scarlett
+759 Cambridge Street Hobart, IN 46342
+Library 201
+Asian Studies
+faculty
+Victoria Madison
+928 West Sulphur Springs Rd. Merrick, NY 11566
+McMurran 301
+Biology, Molecular and Chemistry 
+STUDENT
+Luna Grace
+88 Catherine Drive Peabody, MA 01960
+James River
+Music
+Faculty
+Chloe Penelope
+7243 West Wayne Dr. Chardon, OH 44024
+Forbes 102
+Biology, Organismal and Environmental 
+Student
+Layla Riley
+228 Shadow Brook St. Reisterstown, MD 21136
+Potomac River
+Theater
+student
+Zoey Nora
+8764 Joy Ridge St. Toms River, NJ 08753
+CNU Apartments
+Art History
+Staff
+Lily Eleanor
+372 South Wintergreen Dr. West Haven, CT 06516
+Custodian
+staff
+Hannah Lillian
+90 SW. San Pablo St. Lapeer, MI 48446
+Director
+staff
+Addison Aubrey
+5 Wintergreen Dr. Royersford, PA 19468
+Dean
+STAFF
+Ellie Stella
+9429 Lancaster Dr. Watertown, MA 02472
+Vice-President
+STUDENT
+Natalie Zoe
+177 Clark Street Ridgefield, CT 06877
+CNU Landing
+Studio Art
+faculty
+Leah Hazel
+188 Tunnel Avenue Suite 772
+Luter 102
+Biotechnology and Management Program 
+faculty
+Violet Aurora
+Kokomo, IN 46901 8054 Beaver Ridge Lane
+Luter 202
+Business
+STUDENT
+Savannah Audrey
+Xenia, OH 45385 853 N. Longbranch Street
+Greek Village
+French
+Faculty
+Brooklyn Bella
+Berwyn, IL 60402 5 Pearl Court
+Forbes 302
+Childhood Studies
+Student
+Claire Skylar
+Chandler, AZ 85224 9229 Glen Ridge St.
+CNU Village
+German
+student
+Lucy Paisley
+Elkton, MD 21921 9981 Roehampton Street
+York River
+Spanish 
+Staff
+Everly Anna
+Oak Creek, WI 53154 29 Ann Rd.
+Librarian
+staff
+Caroline Nova
+Norfolk, VA 23503 97 Harrison Street
+Office Manager
+staff
+Genesis Emilia
+Jackson Heights, NY 11372 570 Woodland Street
+Manager
+STAFF
+Kennedy Amelie
+La Porte, IN 46350 9289 Halifax Street
+Supervisor
+STUDENT
+Samanthya Maya
+Libertyville, IL 60048 58 Columbia St.
+Santoro
+History
+faculty
+Willow Kinsley 
+Elkhart, IN 46514 796 Trenton St.
+McMcurran 103
+Civic Engagement and Social Justice
+faculty
+Aaliyah Elena
+Lowell, MA 01851 13 Illinois St.
+Luter 103
+College Studies
+STUDENT
+Sarah Ariana
+Loganville, GA 30052 404 Rocky River Drive
+Warwick River
+American studies
+Faculty
+Allison Gabriella
+Geneva, IL 60134 69 N. Alderwood Street
+Library		343
+Communication 
+Student
+Alice Madelyn
+North Royalton, OH 44133 145 West Hill Street
+Rappahannock
+Nvironmental Studies
+student
+Cora Ruby
+Flemington, NJ 08822 572 Lake View Ave.
+James River
+Mathematics
+Staff
+Eva Serenity
+Ithaca, NY 14850 129 Washington St.
+Custodian
+staff
+Autumn Adeline
+Perth Amboy, NJ 08861 679 Prairie St.
+Director
+staff
+Hailey Gianna
+Sterling Heights, MI 48310 7 Applegate Street
+Dean
+STAFF
+Valentina Isla
+San Lorenzo, CA 94580 686 Old York Circle
+Vice-President
+staff
+Eliana Quinn
+Yuma, AZ 85365 9066 N. Court St.
+Librarian
+STAFF
+Nevaeh Ivy
+Mechanicsville, VA 23111 746 SW. Pawnee Street
+Office Manager
+STUDENT
+Sadie Piper
+Point Pleasant Beach, NJ 08742 684 N. Philmont Ave.
+Potomac River
+Philosophy
+faculty
+Lydia Alexa
+Dothan, AL 36301 41 Van Dyke Ave.
+McMurran	105
+Digital Humanities 
+faculty
+Josephine Emery
+Hartsville, SC 29550 27 South Windsor St.
+Forbes		242
+Economics
+STUDENT
+Julia Delilah
+Bayside, NY 11361 1 Fieldstone Dr.
+York River
+Political Science
+Faculty
+Arianna Vivian
+Nashville, TN 37205 790 Ohio St.
+Luter		322
+English
+Student
+Kaylee Sophie
+Bensalem, PA 19020 794 Spring Ave.
+Santoro
+Psychology
+student
+Brielle Madeline
+Newtown, PA 18940 777 E. Thatcher Street
+Warwick River
+Sociology
+Staff
+Peyton Rylee
+Altamonte Springs, FL 32714 9691 West Longfellow Dr.
+Manager
+staff
+Clara Hadley
+Rosedale, NY 11422 41B Wentworth Lane
+Supervisor
+staff
+Melanie Mackenzie
+Sumter, SC 29150 29 Lakeview Dr.
+Custodian
+STAFF
+Reagan Adalynn
+Tallahassee, FL 32303 82 Jennings Ave.
+Director
+STUDENT
+Liliana Aubree
+Glen Cove, NY 11542 150 Woodside Rd.
+Rappahannock
+Social Work
+faculty
+Jade Katherine
+Granger, IN 46530 41 Carriage St.
+Luter		245
+Environmental Studies 
+STUDENT
+Isabelle Natalia
+Leesburg, VA 20175 8324 Euclid Lane
+James River
+Biology
+Faculty
+Raelynn Maria
+Thibodaux, LA 70301 948 E. Green Hill Ave.
+Forbes		106
+Film Studies
+Student
+Athena Ximena
+Yorktown Heights, NY 10598 7825 Golf Lane
+Potomac River
+Chemistry
+student
+Arya Leilani
+Batavia, OH 45103 548 Walnut Ave.
+York River
+Computer Engineering
+Staff
+Taylor Faith
+Odenton, MD 21113 659 Third St.
+Dean
+staff
+Rose Kylie
+Chapel Hill, NC 27516 9045 E. Foxrun Ave.
+Vice-President
+staff
+Alexandra Mary
+Round Lake, IL 60073 82 Oakwood Court
+Librarian
+STAFF
+Margaret Lyla
+Ocean Springs, MS 39564 233 Big Rock Cove Street
+Office Manager
+STUDENT
+Ashley Amaya
+Reston, VA 20191 61 Littleton Dr.
+Santoro
+Computer Science
+faculty
+Eliza Brianna
+Horn Lake, MS 38637 706 Charles Drive
+McMcurran	107
+Fine Art and Art History
+faculty
+Bailey Andrea
+Pittsfield, MA 01201 6 Sutor Street
+Luter 		225
+History
+STUDENT
+Khloe Jasmine
+Sioux Falls, SD 57103 701 Fifth St.
+Warwick River
+Electrical Engineering
+Faculty
+Melody Iris
+Cranberry Twp, PA 16066 497 Meadowbrook Lane
+Library		224
+Honors 
+Student
+Isabel Norah
+Glen Ellyn, IL 60137 55 Ashley Lane
+Rappahannock
+Cybersecurity
+student
+Annabelle Valeria
+Easley, SC 29640 641 Oxford Dr.
+James River
+Information Systems
+Staff
+Emerson Adalyn
+Cumming, GA 30040 9190 Brookside Street
+Manager
+staff
+Ryleigh Eden
+Fairborn, OH 45324 83 Nichols St.
+Supervisor
+staff
+Emersyn Anastasia
+Nicholasville, KY 40356 73 Mountainview Ave.
+Custodian
+STAFF
+Kayla Alyssa
+Santa Monica, CA 90403 645 Tunnel Street
+Director
+STUDENT
+Juliana Charlie
+Greer, SC 29650 8268 Catherine Dr.
+Potomac River
+Electrial Engineering
+faculty
+Esther Ariel
+Strongsville, OH 44136 9321 Hillside Lane
+McMurran	278
+Human Rights and Conflict Resolution 
+faculty
+Cecilia Valerie
+Port Jefferson Station, NY 11776 9950 Lake Lane
+Forbes		378	
+Interdisciplinary Studies
+STUDENT
+Alina Molly
+Brockton, MA 02301 47 Center Ave.
+CNU Apartments
+Computer Engineering
+Faculty
+Reese Aliyah
+Auburn, NY 13021 523 Lincoln Drive
+Luter		178
+International Culture and Business 
+Student
+Lilly Parker
+Garfield, NJ 07026 7072 Lake Forest Street
+CNU Landing
+Computer Science
+student
+Finley Morgan
+Cape Coral, FL 33904 953 Arcadia Court
+Greek Village
+Electrical Engineering
+Staff
+Sydney Jordyn
+Durham, NC 27703 299 Campfire Circle
+Dean
+staff
+Eloise Trinity
+Sulphur, LA 70663 8033 East Cedar Court
+Vice-President
+staff
+Daisy Kimberly
+Hummelstown, PA 17036 6 E. Sherman Lane
+Librarian
+STAFF
+Lauren Genevieve
+Hephzibah, GA 30815 769 Pheasant Drive
+Office Manager
+STUDENT
+Sara Arabella
+Tullahoma, TN 37388 770 Longfellow Street
+CNU Village
+Cybersecurity
+faculty
+Harmony Elise
+Ballston Spa, NY 12020 9788 Pin Oak Ave.
+Luter		198
+Judeo-Christian Studies
+faculty
+Remi Teagan
+Utica, NY 13501 8170 Pulaski Dr.
+Forbes		144
+Latin American Studies 
+STUDENT
+Alexis London
+Harrisonburg, VA 22801 8720 Bradford Rd.
+York River
+Information Systems
+Faculty
+Sloane Laila
+Palm Bay, FL 32907 142 North Oak Valley Drive
+McMcurran	343
+Leadership and American Studies
+Student
+Lucia Diana
+Willingboro, NJ 08046 50 La Sierra Road
+Santoro
+Electrial Engineering
+student
+Juliette Sienna
+Clover, SC 29710 936 Marvon St.
+Warwick River
+Computer Engineering
+Staff
+Elliana Londyn
+Hixson, TN 37343 88 North Washington Drive
+Manager
+staff
+Ayla Callie
+South Bend, IN 46614 289 North Old York Street
+Supervisor
+staff
+Gracie Josie
+Nanuet, NY 10954 8500 Washington St.
+Custodian
+STAFF
+Amara Jocelyn
+Roanoke Rapids, NC 27870 9862 Thomas Dr.
+Director
+staff
+Daniela Everleigh
+Massillon, OH 44646 95 Mammoth St.
+Dean
+STAFF
+Mya Rachel
+Quakertown, PA 18951 527 South Cherry Lane
+Vice-President
+STUDENT
+Summer Alana
+Moncks Corner, SC 29461 8521 Shub Farm St.
+Rappahannock
+Computer Science
+A
+C
+Q
